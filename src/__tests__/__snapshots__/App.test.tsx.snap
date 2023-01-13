@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render complete app should successfully render the requested response" 1`] = `
+<div>
+   
+  <button>
+    Disconnect
+  </button>
+  <section
+    class="css-13xtug4"
+  >
+    <div
+      class="css-wndu8q"
+    >
+      <div
+        class="css-1h5rp2e-OrderBookTable"
+      >
+        <div>
+          Count
+        </div>
+        <div>
+          Price
+        </div>
+        <div>
+          Amount
+        </div>
+      </div>
+    </div>
+    <div
+      class="css-wndu8q"
+    >
+      <div
+        class="css-1h5rp2e-OrderBookTable"
+      >
+        <div>
+          Count
+        </div>
+        <div>
+          Price
+        </div>
+        <div>
+          Amount
+        </div>
+      </div>
+    </div>
+  </section>
+   
+</div>
+`;
